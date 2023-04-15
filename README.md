@@ -15,3 +15,10 @@ Having worked on an NLP use-case before (“Fake News Classifier to tackle Covid
 ### dataset:
 https://www.kaggle.com/datasets/dinbandhusuman/toxic-comment
 
+
+
+## reference - 
+https://www.netguru.com/blog/sentiment-analysis-nlp
+https://towardsdatascience.com/five-practical-use-cases-of-customer-sentiment-analysis-for-nps-a3167ac2caaa
+https://towardsdatascience.com/toxic-comment-classification-using-lstm-and-lstm-cnn-db945d6b7986
+
